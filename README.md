@@ -1,3 +1,3 @@
-The Telco customer churn data contains information about a fictional telco company that provided home phone and Internet services to 7043.
+The Telco customer churn data contains information about a telco company that provided home phone and Internet services to 7043 customers.
 
 In this notebook we examine the Telco Customer Churn dataset and then we build a model that can predict if a customer left the bank within the last month. We start with finding feature types, missing values and we continue with feature analysis and visualization of the data. Feature engineering is implemented to create new attributes, encoding and feature selection. At last we test several classifiers and we evaluate them with the help of the ROC and CAP curves.
